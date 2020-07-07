@@ -1,1 +1,1 @@
-# Using_SQL
+# Using Python for SQL queries
